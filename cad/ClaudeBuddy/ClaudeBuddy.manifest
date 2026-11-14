@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Claude Buddy",
+	"description":	{
+		"":	"Builds the parametric Claude Buddy enclosure (Body, Eye_L, Eye_R, BackCover) and exports STEP/STL/3MF."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
